@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My CookBook</string>
+    <string name="category_main_course">Перші страви</string>
+    <string name="category_second_course">Другі страви</string>
+    <string name="category_breakfast">Сніданки</string>
+    <string name="category_desert">Десерти</string>
+    <string name="category_salad">Салати</string>
+    <string-array name="categories_select">
+        <item>Перші страви</item>
+        <item>Другі страви</item>
+        <item>Сніданки</item>
+        <item>Десерти</item>
+        <item>Салати</item>
+    </string-array>
+</resources>
